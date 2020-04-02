@@ -1,6 +1,7 @@
 #  PizzaApp
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
-
+https://build.appcenter.ms/v0.1/apps/7c70a6f6-723a-408d-8554-4fc350d343cf/branches/dependabot%2Fnpm_and_yarn%2Fhandlebars-4.5.3/badge
+https://build.appcenter.ms/v0.1/apps/876bbc2f-026e-4883-94f4-6602575d200e/branches/dependabot%2Fnpm_and_yarn%2Fhandlebars-4.5.3/badge
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
 ## :arrow_up: How to Setup
