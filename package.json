@@ -22,7 +22,7 @@
     "git-hook": "npm test -s"
   },
   "dependencies": {
-    "apisauce": "^0.10.0",
+    "apisauce": "^0.16.0",
     "format-json": "^1.0.3",
     "lodash": "^4.17.2",
     "querystringify": "0.0.4",
