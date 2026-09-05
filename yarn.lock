@@ -2128,9 +2128,10 @@ iconv-lite@^0.4.17, iconv-lite@~0.4.13:
   version "0.4.18"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.18.tgz#23d8656b16aae6742ac29732ea8f0336a4789cf2"
 
-ignite-i18n@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/ignite-i18n/-/ignite-i18n-1.0.0.tgz#4e7f5ecebf00ceeac0b52a1a2fb5227b5ecb3faa"
+ignite-i18n@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/ignite-i18n/-/ignite-i18n-1.2.0.tgz#092653d7e5d35adc8c22b31831de7a9175c3570d"
+  integrity sha512-tOTsPX9NZ75sx678Ii3oir1vGCkN+CU2lNT4PMIf1KMt0Pj01c/to1cQf7IbTyKuSzPGwnwq1GAKYOoz3uOY/A==
 
 ignite-ir-boilerplate@^2.0.0-rc.6:
   version "2.0.0-rc.6"
